@@ -1,0 +1,34 @@
+/*selector{
+	property:value;
+}*/
+body{
+	background-image: url(background2.jpg);
+	background-size: contain; 
+}
+#header{
+	color: #21107F;
+	margin: 0;
+	text-align: right;
+}
+div{
+	border-style: double;
+	border-color: #4A0251;
+}
+div h1{
+	text-align: center;
+}
+div li{
+	text-align: right;
+	list-style-type: none;
+	display: inline-block;
+}
+ul img{
+	width:200px;
+	height:300px;
+}
+h2{
+	font-family: acme;
+}
+a {
+	color: #36C800;
+}
